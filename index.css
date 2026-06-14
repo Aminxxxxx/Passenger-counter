@@ -7,7 +7,6 @@ body {
 }
 
 .container {
-    max-height:80%
     background: white;
     max-width: 80%;
     margin: auto;
